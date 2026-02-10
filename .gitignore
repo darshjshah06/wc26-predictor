@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (keep raw if small, ignore processed if large)
+data/processed/*
+!data/processed/.gitkeep
+
+# OS
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
