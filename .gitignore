@@ -12,3 +12,6 @@ data/processed/*
 
 # Notebooks
 .ipynb_checkpoints/
+
+
+echo ".env" >> .gitignore
